@@ -15,7 +15,7 @@ Set up ESP32 and Arduino enviornment. Execute sketch "Access Point".
 
 ##### Other Links: https://randomnerdtutorials.com/esp32-cam-access-point-ap-web-server/ 
 
-##### AI GPTs used
+##### Google AI from search bar
 
 ## Steps I followed
 1. Open Web Source to follow steps to set up access point for ESP32
